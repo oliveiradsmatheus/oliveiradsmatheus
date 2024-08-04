@@ -1,5 +1,7 @@
-## Olá, meu nome é Matheus!
-  
+## Olá, eu sou o Matheus!
+
+Estudante de Ciência da Computação na FIPP.
+
 <div>
   <a href="https://github.com/oliveiradsmatheus">
     <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=oliveiradsmatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
