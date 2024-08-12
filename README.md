@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na FIPP.
   <a href="https://github.com/oliveiradsmatheus">
     <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=oliveiradsmatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height ="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiradsmatheus&theme=dracula&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradsmatheus&hide_border=false&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradsmatheus&hide_border=false&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
