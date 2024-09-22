@@ -2,7 +2,7 @@
 
 Sejam bem-vindos à minha página do GitHub. Aqui você poderá encontrar trabalhos e projetos que realizei em meus estudos. 
 
-Estudante de Ciência da Computação na FIPP.
+✏️ Estudante de Ciência da Computação na FIPP.
 
 ##
 💻 Tecnologias que estou aprendendo:
@@ -16,6 +16,8 @@ Estudante de Ciência da Computação na FIPP.
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
@@ -27,7 +29,7 @@ Estudante de Ciência da Computação na FIPP.
 </div>
 
 ##
-📍 Estatísticas do GitHub:
+📊 Estatísticas do GitHub:
 <div>
   <a href="https://github.com/oliveiradsmatheus">
     <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=oliveiradsmatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
